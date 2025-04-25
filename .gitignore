@@ -1,0 +1,12 @@
+node_modules
+.esbuild
+.serverless
+target
+node_modules
+.vscode
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+frontend/node_modules
